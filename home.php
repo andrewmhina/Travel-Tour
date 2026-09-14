@@ -12,5 +12,8 @@
         <!-- custom css file link -->
         <link rel="stylesheet" href="css/style.css">
     </head>
-    <body></body>
+    <body>
+        <!-- custom js file link --> 
+        <script src="js/script.js"></script>
+    </body>
 </html>
