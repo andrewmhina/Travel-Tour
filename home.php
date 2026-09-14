@@ -16,9 +16,14 @@
         <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
+        <!-- header section starts -->
+        <section  class="header">
+            <a href="home.php" class="logo">travel.</a>
+        </section>
+
         <!-- swiper js link -->
         <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
-        
+
         <!-- custom js file link --> 
         <script src="js/script.js"></script>
     </body>
