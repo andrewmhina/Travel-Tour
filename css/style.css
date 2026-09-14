@@ -70,3 +70,7 @@ section {
     margin-left: 2rem;
     color: var(--black);
 }
+
+.header .navbar a:hover {
+    color: var(--main-color);
+}
