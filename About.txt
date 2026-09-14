@@ -7,3 +7,6 @@ Go to "https://swiperjs.com/", click "Get started" and go to "Use Swiper from CD
   href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css"
 />".
 Then paste in home.php file.
+
+Go to "https://swiperjs.com/get-started", find "Use Swiper from CDN" and copy the script (after copied link):
+"<script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>" and paste in home.php file.
