@@ -10,3 +10,15 @@ Then paste in home.php file.
 
 Go to "https://swiperjs.com/get-started", find "Use Swiper from CDN" and copy the script (after copied link):
 "<script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>" and paste in home.php file.
+
+Go to "https://fonts.google.com/", search "Poppins Indian Type Foundry, Jonny Pinhorn, Ninad Kale" and click it.
+Click "Get  font", then click "<> Get embed code" and choose:
+Thin 100
+Extra-light 200
+Light 300
+Regular 400
+Medium 500
+Semi-bold 600
+Then go to Web side and choose "@import" and copy the following style:
+"@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');"
+and paste in style.css file.
