@@ -26,6 +26,8 @@
                 <a href="package.php">package</a>
                 <a href="book.php">book</a>
             </nav>
+
+            <div id="menu-btn" class="fas fa-bars"></div>
         </section>
 
         <!-- swiper js link -->
