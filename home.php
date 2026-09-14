@@ -19,6 +19,10 @@
         <!-- header section starts -->
         <section  class="header">
             <a href="home.php" class="logo">travel.</a>
+
+            <nav class="navbar">
+                <a href="home.php">home</a>
+            </nav>
         </section>
 
         <!-- swiper js link -->
