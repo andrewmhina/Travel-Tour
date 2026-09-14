@@ -1,0 +1,2 @@
+Go to https://cdnjs.com/, search font awesome and click it. In font awesome copy the following url:
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css" and paste in home.php file.
