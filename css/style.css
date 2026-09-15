@@ -81,3 +81,10 @@ section {
     color: var(--black);
     display: none;
 }
+
+/* media queries */
+@media (max-width:1200px) {
+    section {
+        padding: 3rem 5%;
+    }
+}
