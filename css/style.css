@@ -93,8 +93,14 @@ section {
     html {
         font-size: 55%;
     }
-    
+
     section {
         padding: 3rem 2rem;
+    }
+}
+
+@media (max-width:450px) {
+    html {
+        font-size: 50%;
     }
 }
