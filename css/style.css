@@ -105,6 +105,10 @@ section {
         transition: .2s linear;
     }
 
+    #menu-btn.fa-times {
+        transform: rotate(180deg);
+    }
+
     .header .navbar {
         position: absolute;
         top: 99%;
