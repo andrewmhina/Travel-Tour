@@ -82,6 +82,13 @@ section {
     display: none;
 }
 
+.footer {
+    background: url(/images/footer-bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
 /* media queries */
 @media (max-width:1200px) {
     section {
