@@ -24,3 +24,4 @@ Then go to Web side and choose "@import" and copy the following style:
 and paste in style.css file.
 
 Click that
+It will occur.
