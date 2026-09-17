@@ -95,6 +95,12 @@ section {
     gap: 3rem;
 }
 
+.footer .box-container .box h3 {
+    color: var(--white);
+    font-size: 2.5rem;
+    padding-bottom: 2rem;
+}
+
 /* media queries */
 @media (max-width:1200px) {
     section {
