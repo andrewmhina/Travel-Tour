@@ -89,6 +89,12 @@ section {
     background-attachment: fixed;
 }
 
+.footer .box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    gap: 3rem;
+}
+
 /* media queries */
 @media (max-width:1200px) {
     section {
