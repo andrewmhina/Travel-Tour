@@ -108,6 +108,11 @@ section {
     display: block;
 }
 
+.footer .box-container .box a i {
+    color: var(--main-color);
+    padding-right: .5rem;
+}
+
 /* media queries */
 @media (max-width:1200px) {
     section {
