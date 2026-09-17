@@ -48,6 +48,14 @@
                     <a href="#"><i class="fas fa-angle-right"></i> privacy policy</a>
                     <a href="#"><i class="fas fa-angle-right"></i> terms of use</a>
                 </div>
+
+                <div class="box">
+                    <h3>contact info</h3>
+                    <a href="#"><i class="fas fa-phone"></i> +123-456-7890 </a>
+                    <a href="#"><i class="fas fa-phone"></i> +111-222-3333 </a>
+                    <a href="#"><i class="fas fa-envelope"></i> dupa@gmail.com </a>
+                    <a href="#"><i class="fas fa-map"></i> tanga, tanzania - 560056 </a>
+                </div>
             </div>
         </section>
 
