@@ -25,3 +25,5 @@ and paste in style.css file.
 
 Click that
 It will occur.
+
+Right click in web browser and click Inspect. Make Width 314.
