@@ -143,6 +143,10 @@ section {
     color: var(--white);
 }
 
+.footer .credit span {
+    color: var(--main-color);
+}
+
 /* media queries */
 @media (max-width:1200px) {
     section {
