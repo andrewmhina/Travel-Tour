@@ -134,6 +134,7 @@ section {
 }
 
 .footer .credit {
+    grid-column: 1/-1;
     text-align: center;
     padding-top: 3rem;
     margin-top: 3rem;
