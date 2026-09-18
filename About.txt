@@ -28,3 +28,4 @@ It will occur.
 
 Right click in web browser and click Inspect. Make Width 314.
 Then click that.
+Then click that again.
