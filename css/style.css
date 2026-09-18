@@ -87,7 +87,6 @@ section {
     background: url(../images/footer-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
 }
 
 /* Dark/faded overlay over the background image */
