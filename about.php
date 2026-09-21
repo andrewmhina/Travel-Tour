@@ -8,5 +8,8 @@
 
         <!-- swiper css link -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css"/>
+
+        <!-- font awesome cdn link -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css">
     </head>
 </html>
