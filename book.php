@@ -70,6 +70,8 @@
                     <a href="#"><i class="fab fa-linkedin"></i> linkedin </a>
                 </div>
             </div>
+
+            <div class="credit">created by <span>mr. web</span> | all rights reserved!</div>
         </section>
     </body>
 </html>
