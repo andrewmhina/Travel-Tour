@@ -29,5 +29,10 @@
 
             <div id="menu-btn" class="fas fa-bars"></div>
         </section>
+
+        <!-- header section ends -->
+        <div class="heading" style="background:url(images/header-bg-3.jpg) no-repeat">
+            <h1>book now</h1>
+        </div>
     </body>
 </html>
