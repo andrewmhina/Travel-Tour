@@ -30,6 +30,11 @@
             <div id="menu-btn" class="fas fa-bars"></div>
         </section>
 
+        <!-- header section ends -->
+        <div class="heading" style="background:url(images/header-bg-1.jpg) no-repeat">
+            <h1>about us</h1>
+        </div>
+
         <!-- footer section starts -->
         <section class="footer">
             <div class="box-container">
