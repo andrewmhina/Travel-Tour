@@ -92,6 +92,7 @@ section {
     padding: 2rem;
     text-align: center;
     background: var(--main-color);
+    cursor: pointer;
 }
 
 .services .box-container .box:hover {
