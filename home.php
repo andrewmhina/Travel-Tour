@@ -30,6 +30,17 @@
             <div id="menu-btn" class="fas fa-bars"></div>
         </section>
 
+        <!-- services section starts -->
+        <section class="services">
+            <h1 class="heading-title"> our services </h1>
+            <div class="box-container">
+                <div class="box">
+                    <img src="images/icon-1.png" alt="">
+                    <h3>adventure</h3>
+                </div>
+            </div>
+        </section>
+
         <!-- footer section starts --> 
         <section class="footer">
             <div class="box-container">
