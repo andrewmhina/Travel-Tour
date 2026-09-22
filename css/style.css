@@ -88,6 +88,12 @@ section {
     gap: 1.5rem;
 }
 
+.services .box-container .box {
+    padding: 2rem;
+    text-align: center;
+    background: var(--main-color);
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
