@@ -98,6 +98,10 @@ section {
     background: var(--black);
 }
 
+.services .box-container .box img {
+    height: 8rem;
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
