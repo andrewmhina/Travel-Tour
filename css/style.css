@@ -94,6 +94,10 @@ section {
     background: var(--main-color);
 }
 
+.services .box-container .box:hover {
+    background: var(--black);
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
