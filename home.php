@@ -53,6 +53,11 @@
                     <img src="images/icon-4.png" alt="">
                     <h3>camp fire</h3>
                 </div>
+
+                <div class="box">
+                    <img src="images/icon-5.png" alt="">
+                    <h3>off road</h3>
+                </div>
             </div>
         </section>
 
