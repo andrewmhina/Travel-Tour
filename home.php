@@ -43,6 +43,11 @@
                     <img src="images/icon-2.png" alt="">
                     <h3>tour guide</h3>
                 </div>
+
+                <div class="box">
+                    <img src="images/icon-3.png" alt="">
+                    <h3>trekking</h3>
+                </div>
             </div>
         </section>
 
