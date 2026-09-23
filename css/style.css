@@ -124,6 +124,10 @@ section {
     display: none;
 }
 
+.home .swiper-slide-active .content {
+    display: inline-block;
+}
+
 .home .slide .content span {
     display: block;
     font-size: 2.2rem;
