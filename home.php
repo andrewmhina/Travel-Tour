@@ -33,7 +33,7 @@
         <!-- home section starts -->
         <section class="home">
             <div class="swiper home-slider">
-                <div class="W">
+                <div class="swiper-wrapper">
                     <div class="slide" style="background: url(images/home-slide-1.jpg) no-repeat">
                         <div class="content">
                             <span>explore, discover, travel</span>
