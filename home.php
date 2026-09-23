@@ -34,7 +34,7 @@
         <section class="home">
             <div class="swiper home-slider">
                 <div class="swiper-wrapper">
-                    <div class="slide" style="background: url(images/home-slide-1.jpg) no-repeat">
+                    <div class="swiper-slide slide" style="background: url(images/home-slide-1.jpg) no-repeat">
                         <div class="content">
                             <span>explore, discover, travel</span>
                             <h3>travel around the world</h3>
