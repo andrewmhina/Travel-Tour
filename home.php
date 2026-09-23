@@ -32,7 +32,7 @@
 
         <!-- home section starts -->
         <section class="home">
-            <div class="home-slider">
+            <div class="swiper home-slider">
                 <div class="W">
                     <div class="slide" style="background: url(images/home-slide-1.jpg) no-repeat">
                         <div class="content">
