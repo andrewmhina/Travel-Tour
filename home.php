@@ -50,7 +50,7 @@
                         </div>
                     </div>
 
-                    <div class="slide" style="background: url(images/home-slide-3.jpg) no-repeat">
+                    <div class="swiper-slide slide" style="background: url(images/home-slide-3.jpg) no-repeat">
                         <div class="content">
                             <span>explore, discover, travel</span>
                             <h3>make your tour worthwhile</h3>
