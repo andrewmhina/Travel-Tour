@@ -143,6 +143,7 @@ section {
     line-height: 1;
     text-shadow: var(--text-shadow);
     padding: 1rem 0;
+    animation: fadeIn .4s linear backwards .4s;
 }
 
 .services .box-container {
