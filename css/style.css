@@ -146,6 +146,10 @@ section {
     animation: fadeIn .4s linear backwards .4s;
 }
 
+.home .slide .content .btn {
+    animation: fadeIn .4s linear backwards .6s;
+}
+
 .services .box-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
