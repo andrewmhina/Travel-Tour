@@ -30,6 +30,21 @@
             <div id="menu-btn" class="fas fa-bars"></div>
         </section>
 
+        <!-- home section starts -->
+        <section class="home">
+            <div class="home-slider">
+                <div class="W">
+                    <div class="slide" style="background: url(images/home-slide-1.jpg) no-repeat">
+                        <div class="content">
+                            <span>explore, discover, travel</span>
+                            <h3>travel around the world</h3>
+                            <a href="package.php" class="btn">discover more</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- services section starts -->
         <section class="services">
             <h1 class="heading-title"> our services </h1>
