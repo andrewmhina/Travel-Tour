@@ -105,6 +105,10 @@ section {
     min-height: 60rem;
 }
 
+.home .slide .content {
+    width: 85rem;
+}
+
 .services .box-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
