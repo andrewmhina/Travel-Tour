@@ -49,6 +49,14 @@
                             <a href="package.php" class="btn">discover more</a>
                         </div>
                     </div>
+
+                    <div class="slide" style="background: url(images/home-slide-3.jpg) no-repeat">
+                        <div class="content">
+                            <span>explore, discover, travel</span>
+                            <h3>make your tour worthwhile</h3>
+                            <a href="package.php" class="btn">discover more</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
