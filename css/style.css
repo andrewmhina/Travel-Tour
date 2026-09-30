@@ -45,6 +45,13 @@ section {
     padding: 5rem 10%;
 }
 
+@keyframes fadeIn {
+    0% {
+        transform: scale(0);
+        opacity: 0;
+    }
+}
+
 .btn {
     display: inline-block;
     background: var(--black);
