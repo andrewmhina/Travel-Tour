@@ -154,7 +154,7 @@ section {
 }
 
 .home .slide .content .btn {
-    animation: fadeIn .4s linear backwards .6s;
+    animation: fadeIn .2s linear backwards .6s;
 }
 
 .services .box-container {
