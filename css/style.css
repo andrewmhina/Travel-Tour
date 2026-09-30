@@ -169,6 +169,12 @@ section {
     color: var(--black);
 }
 
+.home .swiper-button-next:hover,
+.home .swiper-button-prev:hover {
+    background: var(--main-color);
+    color: var(--white);
+}
+
 .services .box-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
