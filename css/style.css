@@ -249,7 +249,7 @@ section {
     gap: 2rem;
 }
 
-.home-packages .box-container .image {
+.home-packages .box-container .box .image {
     height: 25rem;
     overflow: hidden;
 }
