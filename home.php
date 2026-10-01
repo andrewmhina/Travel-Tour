@@ -131,6 +131,17 @@
                         <a href="book.php" class="btn">book now</a>
                     </div>
                 </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="images/img-2.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>relaxation & exploration</h3>
+                        <p>Unwind and explore new horizons with our relaxing tour packages designed for those seeking tranquility and natural beauty.</p>
+                        <a href="book.php" class="btn">book now</a>
+                    </div>
+                </div>
             </div>
         </section>
 
