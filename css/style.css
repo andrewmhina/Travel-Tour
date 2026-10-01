@@ -221,6 +221,10 @@ section {
     flex: 1 1 41rem;
 }
 
+.home-about .image img {
+    width: 100%;
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
