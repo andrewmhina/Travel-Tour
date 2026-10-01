@@ -211,6 +211,12 @@ section {
     padding-top: 1rem;
 }
 
+.home-about {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
