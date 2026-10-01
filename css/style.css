@@ -261,6 +261,10 @@ section {
     transition: .2s linear;
 }
 
+.home-packages .box-container .box .content {
+    padding: 2rem;
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
