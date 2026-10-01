@@ -225,6 +225,12 @@ section {
     width: 100%;
 }
 
+.home-about .content {
+    flex: 1 1 41rem;
+    padding: 3rem;
+    background: var(--light-bg);
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
