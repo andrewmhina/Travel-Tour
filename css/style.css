@@ -249,6 +249,11 @@ section {
     gap: 2rem;
 }
 
+.home-packages .box-container .image {
+    height: 25rem;
+    overflow: hidden;
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
