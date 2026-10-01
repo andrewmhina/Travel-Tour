@@ -180,6 +180,10 @@ section {
     font-size: 2rem;
 }
 
+.home .swiper-button-prev {
+    right: 7rem;
+}
+
 .services .box-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
