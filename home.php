@@ -142,6 +142,17 @@
                         <a href="book.php" class="btn">book now</a>
                     </div>
                 </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="images/img-3.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>sail & discovery</h3>
+                        <p>Embark on a journey of discovery with our sailing packages, offering unique experiences on the water.</p>
+                        <a href="book.php" class="btn">book now</a>
+                    </div>
+                </div>
             </div>
         </section>
 
