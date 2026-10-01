@@ -117,6 +117,23 @@
             </div>
         </section>
 
+        <!-- home packages section starts --> 
+        <section class="home-packages">
+            <h1 class="heading"> our packages </h1>
+            <div class="box-container">
+                <div class="box">
+                    <div class="image">
+                        <img src="images/img-1.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>adventure & tour</h3>
+                        <p>Discover the thrill of adventure with our exclusive tour packages designed for thrill-seekers and nature lovers.</p>
+                        <a href="book.php" class="btn">book now</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- footer section starts --> 
         <section class="footer">
             <div class="box-container">
