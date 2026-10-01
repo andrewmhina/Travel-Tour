@@ -100,6 +100,23 @@
             </div>
         </section>
 
+        <!-- home about section starts --> 
+        <section class="home-about">
+            <div class="image">
+                <img src="images/about-img.jpg" alt="">
+            </div>
+
+            <div class="content">
+                <h3>about us</h3>
+                <p>We are a trusted tourist booking platform dedicated to making travel simple,
+                    convenient and enjoyable. We help travelers discover and book exciting destinations,
+                    tours, accomodations and travel experiences. Our goal is to provide reliable services,
+                    easy booking and memorable experiences for every traveler.
+                </p>
+                <a href="about.php" class="btn">read more</a>
+            </div>
+        </section>
+
         <!-- footer section starts --> 
         <section class="footer">
             <div class="box-container">
