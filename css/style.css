@@ -243,6 +243,10 @@ section {
     color: var(--black);
 }
 
+.home-packages {
+    background: var(--light-bg);
+}
+
 .home-packages .box-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
