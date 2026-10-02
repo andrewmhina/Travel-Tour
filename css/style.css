@@ -288,6 +288,11 @@ section {
     padding: 1rem 0;
 }
 
+.home-packages .load-more {
+    text-align: center;
+    margin-top: 2rem;
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
