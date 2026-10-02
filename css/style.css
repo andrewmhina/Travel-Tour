@@ -293,6 +293,10 @@ section {
     margin-top: 2rem;
 }
 
+.home-offer {
+    text-align: center;
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
