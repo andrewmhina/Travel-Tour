@@ -302,6 +302,11 @@ section {
     margin: 0 auto;
 }
 
+.home-offer .content h3 {
+    font-size: 3rem;
+    color: var(--black);
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
