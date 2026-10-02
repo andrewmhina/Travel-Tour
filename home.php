@@ -158,6 +158,15 @@
             <div class="load-more"> <a href="package.php" class="btn">load more</a> </div>
         </section>
 
+        <!-- home offer section starts -->
+        <section class="home-offer">
+            <div class="content">
+                <h3>upto 50% off</h3>
+                <p>Take advantage of our limited-time offer and enjoy up to 50% off on select travel packages. Book now and make your dream vacation a reality!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </section>
+
         <!-- footer section starts --> 
         <section class="footer">
             <div class="box-container">
