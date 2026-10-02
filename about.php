@@ -35,6 +35,13 @@
             <h1>about us</h1>
         </div>
 
+        <!-- about section starts --> 
+        <section class="about">
+            <div class="image">
+                <img src="images/about-img.jpg" alt="">
+            </div>
+        </section>
+
         <!-- footer section starts -->
         <section class="footer">
             <div class="box-container">
