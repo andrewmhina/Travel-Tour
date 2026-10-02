@@ -297,6 +297,11 @@ section {
     text-align: center;
 }
 
+.home-offer .content {
+    max-width: 50rem;
+    margin: 0 auto;
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
