@@ -40,6 +40,20 @@
             <div class="image">
                 <img src="images/about-img.jpg" alt="">
             </div>
+
+            <div class="content">
+                <h3>why choose us?</h3>
+                <p>We are a team of experienced travel professionals dedicated to 
+                    providing you with the best travel experiences. With our extensive 
+                    knowledge and passion for travel, we ensure that every moment 
+                    of your journey is memorable and fulfilling.
+                </p>
+                <p>Our commitment to customer satisfaction and attention to detail 
+                    sets us apart. We strive to create personalized itineraries that 
+                    cater to your preferences, ensuring that your travel experience 
+                    is seamless and enjoyable.
+                </p>
+            </div>
         </section>
 
         <!-- footer section starts -->
