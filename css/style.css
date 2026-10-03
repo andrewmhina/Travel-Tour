@@ -372,6 +372,11 @@ section {
     align-items: flex-end;
 }
 
+.about .content .icons-container .icons {
+    background: var(--light-bg);
+    padding: 2rem;
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
