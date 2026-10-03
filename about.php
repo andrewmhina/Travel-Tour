@@ -53,6 +53,12 @@
                     cater to your preferences, ensuring that your travel experience 
                     is seamless and enjoyable.
                 </p>
+                <div class="icons-container">
+                    <div class="icons">
+                        <i class="fas fa-map"></i>
+                        <span>top destinations</span>
+                    </div>
+                </div>
             </div>
         </section>
 
