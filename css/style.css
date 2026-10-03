@@ -383,6 +383,11 @@ section {
     color: var(--main-color);
 }
 
+.about .content .icons-container .icons span {
+    font-size: 1.5rem;
+    color: var(--light-black);
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
