@@ -377,6 +377,12 @@ section {
     padding: 2rem;
 }
 
+.about .content .icons-container .icons i {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    color: var(--main-color);
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
