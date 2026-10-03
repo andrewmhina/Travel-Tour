@@ -62,6 +62,10 @@
                         <i class="fas fa-hand-holding-usd"></i>
                         <span>affordable price</span>
                     </div>
+                    <div class="icons">
+                        <i class="fas fa-headset"></i>
+                        <span>24/7 guide service</span>
+                    </div>
                 </div>
             </div>
         </section>
