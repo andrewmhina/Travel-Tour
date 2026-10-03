@@ -58,6 +58,10 @@
                         <i class="fas fa-map"></i>
                         <span>top destinations</span>
                     </div>
+                    <div class="icons">
+                        <i class="fas fa-hand-holding-usd"></i>
+                        <span>affordable price</span>
+                    </div>
                 </div>
             </div>
         </section>
