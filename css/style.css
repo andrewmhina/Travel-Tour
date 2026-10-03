@@ -364,6 +364,14 @@ section {
     padding: 1rem 0;
 }
 
+.about .content .icons-container {
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    align-items: flex-end;
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
