@@ -387,6 +387,7 @@ section {
 .about .content .icons-container .icons span {
     font-size: 1.5rem;
     color: var(--light-black);
+    display: block;
 }
 
 .footer {
