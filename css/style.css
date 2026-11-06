@@ -390,6 +390,10 @@ section {
     display: block;
 }
 
+.reviews {
+    background: var(--light-bg);
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
