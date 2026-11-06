@@ -142,7 +142,6 @@
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
                         </div>
                         <p>I highly recommended this website to anyone looking for an unforgettable adventure.
                         </p>
