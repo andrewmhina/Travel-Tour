@@ -149,6 +149,22 @@
                         <span>traveler</span>
                         <img src="images/pic-5.jpg" alt="">
                     </div>
+
+                    <div class="slide">
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <p>My travel experience was absolutely amazing! The booking process was easy,
+                            the destinations were beautiful and the service was excellent. I highly recommended
+                            this website to anyone looking for an unforgettable adventure.
+                        </p>
+                        <h3>john deo</h3>
+                        <span>traveler</span>
+                        <img src="images/pic-6.jpg" alt="">
+                    </div>
                 </div>
             </div>
         </section>
