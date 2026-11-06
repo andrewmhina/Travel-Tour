@@ -402,6 +402,10 @@ section {
     box-shadow: var(--box-shadow);
 }
 
+.reviews .slide .stars {
+    padding-bottom: .5rem;
+}
+
 .reviews .slide .stars i {
     font-size: 1.7rem;
     color: var(--main-color);
