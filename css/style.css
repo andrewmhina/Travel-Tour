@@ -414,6 +414,11 @@ section {
     padding: 1rem 0;
 }
 
+.reviews .slide span {
+    font-size: 1.5rem;
+    color: var(--main-color);
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
