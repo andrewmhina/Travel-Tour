@@ -72,7 +72,7 @@
 
         <!-- reviews section starts -->
         <section class="reviews">
-            <div class="reviews-slider">
+            <div class="swiper reviews-slider">
                 <div class="w">
                     <div class="slide">
                         <div class="stars">
