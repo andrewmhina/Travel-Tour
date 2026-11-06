@@ -402,6 +402,11 @@ section {
     box-shadow: var(--box-shadow);
 }
 
+.reviews .slide .stars i {
+    font-size: 1.7rem;
+    color: var(--main-color);
+}
+
 .footer {
     position: relative;
     background: url(../images/footer-bg.jpg) no-repeat;
